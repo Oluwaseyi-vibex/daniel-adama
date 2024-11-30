@@ -23,7 +23,7 @@ const config: Config = {
   },
    plugins: [
     require('daisyui'),
-    function({ addUtilities }) {
+    function({ addUtilities }: any) {
       const newUtilities = {
         '.scrollbar-thin': {
           'scrollbar-width': 'thin'
