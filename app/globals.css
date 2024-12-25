@@ -50,16 +50,17 @@ body {
 
 .scroll-section-inner {
   height: 100vh;
-  width: 405vw;
+  /* width: 275vw; */
+  width: 235vw;
   display: flex;
-  gap: 5px;
+  gap: 65px;
   flex-direction: row;
   position: relative;
 }
 
 .scroll-section {
   height: 100vh;
-  width: 105vw;
+  width: 505vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -69,6 +70,6 @@ body {
   color: black;
 
   letter-spacing: var(--headlineMedium);
-  font-size: 17vw;
+  font-size: 14vw;
   text-transform: uppercase;
 }

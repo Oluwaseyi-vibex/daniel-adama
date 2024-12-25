@@ -159,14 +159,14 @@ export default function Home() {
             className="scroll-section-inner border-y-4 border-black"
           >
             <div className="scroll-section">
-              <h3>machine</h3>
+              <h3>Artificial</h3>
             </div>
             <div className="scroll-section">
-              <h3>learning</h3>
+              <h3>Intelligence/Backend</h3>
             </div>
 
             <div className="scroll-section">
-              <h3>engineer</h3>
+              <h3>Engineer</h3>
             </div>
           </div>
         </div>
